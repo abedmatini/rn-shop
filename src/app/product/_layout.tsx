@@ -7,7 +7,7 @@ export const unstable_settings = {
   initialRouteName: "[slug]",
 };
 
-export default function CategoriesLayout(): JSX.Element {
+export default function ProductLayout(): JSX.Element {
   return (
     <Stack>
       <Stack.Screen
